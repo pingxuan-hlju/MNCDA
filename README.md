@@ -33,7 +33,6 @@ The MNCDA code has been implemented and tested in the following development envi
 - **disease_disease.npy**: Includes the similarities among the diseases.
 - **circRNA_disease.npy**: Includes the associations between the circRNAs and diseases.
 - **circRNA_miRNA.npy**: Includes the associations between the circRNAs and miRNAs.
-- **circ_CNN.pth**: Includes the adjacency matrix and feature matrix of the circRNA-disease heterogeneous graph.
 - **Supplementary Table ST1.xlsx**: Lists the top 30 candidate circRNAs for each disease.
 
 ---
